@@ -1,0 +1,17 @@
+.tasks-list{
+    background-color: #e8e4e4;
+    padding: 2px;
+    border-radius: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.tasks-list h1{
+  text-align: center;
+  margin-bottom: 20px;
+  color: green;
+}
+
+.tasks-list ul{
+    list-style: none;
+}
